@@ -1,0 +1,22 @@
+# 隐私配置文件（存放MySQL账号密码，不上传GitHub）
+config.py
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 导出的csv数据文件
+*.csv
+all_datas_csv
+# 日志文件
+*.log
+
+# Windows系统垃圾文件
+Thumbs.db
+# 系统、git bash隐藏文件
+.bash_history
+.gitconfig
+.lesshst
+.sshst
