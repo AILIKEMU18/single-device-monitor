@@ -1,0 +1,4 @@
+flask>=2.2
+pymysql>=1.0
+dbutils>=3.0
+python-dotenv>=1.0
